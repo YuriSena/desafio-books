@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 Projeto desenvolvido em React com [Create React App](https://github.com/facebook/create-react-app).
 
 ## Scripts Disponíveis
